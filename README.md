@@ -14,7 +14,22 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 
 ---
 
-## 🗂️ Project Structure
+## �️ Tools & APIs Used
+
+- **Flask**: Web framework for building the backend API.
+- **Docker**: Containerization for consistent deployment.
+- **Kubernetes**: Orchestration using deployment YAMLs.
+- **Prometheus**: Monitoring and metrics collection.
+- **Grafana**: Visualization and dashboarding for observability.
+- **Hugging Face API** : For leveraging Embedding Models.
+- **GROQ API** : For advanced LLM or AI-powered Models.
+- **Astra DB** : Managed Vector database for scalable data storage.
+- **Python**: Core language for all scripts and logic.
+- **Custom Modules**: Data ingestion, preprocessing, RAG (Retrieval-Augmented Generation), logging, and error handling.
+
+---
+
+## �🗂️ Project Structure
 
 ```
 FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
