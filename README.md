@@ -78,7 +78,7 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 
 ---
 
-## 💡 Why Hire Me?
+## 💡Achived so far:
 - **Industry-Relevant Skills:** Demonstrates expertise in ML, LLMOPS, cloud-native deployment, and monitoring.
 - **End-to-End Ownership:** From data ingestion to production monitoring.
 - **Clean Code & Documentation:** Follows best practices for maintainability and scalability.
