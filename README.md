@@ -1,7 +1,5 @@
 # Flipkart Product Recommendation System
 
-![Demo](static/demo.gif)
-
 ## 🚀 Overview
 
 The **Flipkart Product Recommendation System** is a robust, end-to-end solution designed to deliver personalized product recommendations using real-world e-commerce data. Built with modern LLMOPS practices, this project demonstrates scalable data ingestion, processing, and deployment using Flask, Docker, and cloud-native tools like Prometheus and Grafana for monitoring. 
@@ -11,6 +9,12 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 > - E-commerce recommendation systems are at the core of online retail giants like Amazon, Flipkart, and Walmart.
 > - Companies are actively seeking engineers who can build, deploy, and monitor intelligent recommendation engines at scale.
 > - This project showcases not just ML, but also production-grade deployment, observability, and best practices in Python development.
+
+---
+
+## 🖥️ Demo
+
+![Demo GIF](Demo.gif)
 
 ---
 
@@ -26,12 +30,6 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 - **Astra DB** : Managed Vector database for scalable data storage.
 - **Python**: Core language for all scripts and logic.
 - **Custom Modules**: Data ingestion, preprocessing, RAG (Retrieval-Augmented Generation), logging, and error handling.
-
----
-
-## 🖥️ Demo
-
-![Demo GIF](Demo.gif)
 
 ---
 
