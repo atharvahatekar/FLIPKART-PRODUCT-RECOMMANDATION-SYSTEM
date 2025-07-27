@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-The **Flipkart Product Recommendation System** is a robust, end-to-end solution designed to deliver personalized product recommendations using real-world e-commerce data. Built with modern MLOps practices, this project demonstrates scalable data ingestion, processing, and deployment using Flask, Docker, and cloud-native tools like Prometheus and Grafana for monitoring. 
+The **Flipkart Product Recommendation System** is a robust, end-to-end solution designed to deliver personalized product recommendations using real-world e-commerce data. Built with modern LLMOPS practices, this project demonstrates scalable data ingestion, processing, and deployment using Flask, Docker, and cloud-native tools like Prometheus and Grafana for monitoring. 
 
 > **Why is this project in demand?**
 >
@@ -62,10 +62,10 @@ FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
 ## ✨ Features
 
 - **Personalized Recommendations:** Uses real Flipkart product review data to suggest relevant products.
-- **Modern MLOps Stack:** Dockerized, Kubernetes-ready, and instrumented with Prometheus & Grafana.
-- **Robust Data Pipeline:** Modular ingestion, cleaning, and transformation scripts.
+- **Modern LLMOPS Stack:** Dockerized, Kubernetes-ready, and instrumented with Prometheus & Grafana.
+- **Robust Data Pipeline:** Modular ingestion, Data versioning, cleaning, and transformation scripts.
 - **Production-Ready API:** Flask backend with a clean, responsive frontend.
-- **Error Handling & Logging:** Custom exception and logging modules for reliability.
+- **Error Handling & Logging:** Custom exception and logging modules for Debugging & reliability.
 
 ---
 
@@ -109,7 +109,7 @@ FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
 ---
 
 ## 💡 Why Hire Me?
-- **Industry-Relevant Skills:** Demonstrates expertise in ML, MLOps, cloud-native deployment, and monitoring.
+- **Industry-Relevant Skills:** Demonstrates expertise in ML, LLMOPS, cloud-native deployment, and monitoring.
 - **End-to-End Ownership:** From data ingestion to production monitoring.
 - **Clean Code & Documentation:** Follows best practices for maintainability and scalability.
 
@@ -118,8 +118,8 @@ FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
 ## 📬 Contact
 
 If you like this project or want to discuss opportunities, feel free to connect:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/atharvahatekar)
+- [Email](mailto:atharva_hatekar@yahoo.in)
 
 ---
 
