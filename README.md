@@ -29,48 +29,11 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 
 ---
 
-## �🗂️ Project Structure
+## 🖥️ Demo
 
-```
-FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
-│
-├── app.py                        # Flask application entry point
-├── Dockerfile                    # Containerization for deployment
-├── flask-deployment.yaml         # Kubernetes deployment for Flask app
-├── requirements.txt              # Python dependencies
-├── setup.py                      # Project setup
-│
-├── data/
-│   └── flipkart_product_review.csv   # Raw product review data
-│
-├── flipkart/
-│   ├── __init__.py
-│   ├── config.py                 # Configuration management
-│   ├── data_converter.py         # Data preprocessing utilities
-│   ├── data_ingestion.py         # Data ingestion pipeline
-│   └── rag_chain.py              # Retrieval-Augmented Generation (RAG) logic
-│
-├── utils/
-│   ├── __init__.py
-│   ├── custom_exception.py       # Custom error handling
-│   └── logger.py                 # Logging utilities
-│
-├── static/
-│   ├── style.css                 # Frontend styling
-│   └── demo.gif                  # Demo animation (add your GIF here)
-│
-├── templates/
-│   └── index.html                # Main web UI
-│
-├── grafana/
-│   └── grafana-deployment.yaml   # Grafana monitoring deployment
-│
-├── prometheus/
-│   ├── prometheus-configmap.yaml # Prometheus config
-│   └── prometheus-deployment.yaml# Prometheus deployment
-│
-└── FLIPKART_PRODUCT_RECOMMENDER.egg-info/ # Packaging metadata
-```
+![Demo GIF](static/demo.gif)
+
+> _Replace `static/demo.gif` with your own screen recording to showcase the app in action!_
 
 ---
 
@@ -87,14 +50,6 @@ FLIPKART-PRODUCT-RECOMMENDATION-SYSTEM/
 ## 📊 Monitoring & Observability
 - **Prometheus**: Collects real-time metrics from the Flask app.
 - **Grafana**: Visualizes system health and user activity.
-
----
-
-## 🖥️ Demo
-
-![Demo GIF](static/demo.gif)
-
-> _Replace `static/demo.gif` with your own screen recording to showcase the app in action!_
 
 ---
 
