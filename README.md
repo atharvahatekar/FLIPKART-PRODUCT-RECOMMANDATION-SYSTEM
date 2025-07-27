@@ -31,7 +31,7 @@ The **Flipkart Product Recommendation System** is a robust, end-to-end solution 
 
 ## 🖥️ Demo
 
-![Demo GIF](Example_video.gif)
+![Demo GIF](Demo.gif)
 
 ---
 
